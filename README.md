@@ -8,6 +8,7 @@ http://codeforces.com/submissions/Petr/page/22
 同大余数问题 饥饿的小易先往后放放
 
 争取养着每天做两三道算法的习惯
+
 LeetCode  2018年10月3日星期三16点22分
 从今天开始记录leetcode经验，真是时间长了就忘记了。 
 map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);//用getOrDefault(如果有就这么填, 如果没有的话 填默认值) 
