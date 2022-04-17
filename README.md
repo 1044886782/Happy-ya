@@ -36,3 +36,7 @@ Map<String, List> ans = new HashMap<String, List>();//字符串Key 对应 List�
 sort()一下 如果不相同 就另建一个新的Array[] 储存放在Value里 
 
 solution289 Game of Life 类似岛屿island of water 都是通过搜索来寻求满足条件的来更新matrix[][]
+
+
+2022年4月17日11:38:24
+4年后的今天，还是要感谢当初努力刷题的自己
